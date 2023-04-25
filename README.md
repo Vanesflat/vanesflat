@@ -1,12 +1,9 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Привет, мир!</h3>
 
-<div>
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="200" height="200" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="200" height="200" align="left" />
 Я Иван, Фронтенд-разработчик.  
 
 Нахожусь в активном поиске интересных и качественных проектов на работе мечты.
-
-</div>
 
 <h3 align="center">Технологии:</h3>
 <div align="center">
