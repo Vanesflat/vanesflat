@@ -2,7 +2,7 @@
 
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="200" height="200" align="left" />
 
-Я <h4>Иван</h4>, Фронтенд-разработчик.  
+Я Иван, Фронтенд-разработчик.  
 Нахожусь в активном поиске работы.
 
 <h4>Технологии:</h4>
