@@ -5,11 +5,11 @@
 Нахожусь в активном поиске интересных и качественных проектов на работе мечты.
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="200" height="200" />
 </div>
 
-### Технологии:
-<div>
+<h3 align="center">Технологии:</h3>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="html" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="30" height="30"/>&nbsp;
 
