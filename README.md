@@ -1,8 +1,8 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Привет, мир!</h3>
+<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Привет, мир!</h3>
 
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="200" height="200" align="left" />
 
-Я Иван, Фронтенд-разработчик.  
+Я <h4>Иван</h4>, Фронтенд-разработчик.  
 Нахожусь в активном поиске работы.
 
 <h4>Технологии:</h4>
